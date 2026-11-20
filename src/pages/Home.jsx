@@ -11,13 +11,13 @@ const Hero = () => {
       <div className="hero-content">
         
         <h1>
-          Feel the waves.
+          Feel the waves
           <br />
-          Find your peace.
+          Find your peace
         </h1>
 
         <p>
-          Discover the coastal beauty of Digha.
+          Discover the coastal beauty of Digha
         </p>
 
         <a href="#destinations" className="hero-btn">

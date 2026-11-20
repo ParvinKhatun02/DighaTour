@@ -2,6 +2,7 @@ import React from 'react'
 import {BrowserRouter, Routes, Route} from "react-router-dom"
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
+import Destinations from './pages/Destinations';
 
 function LandingPage() {
   return (
@@ -11,6 +12,11 @@ function LandingPage() {
         <section id="home">
           <Home />
         </section>
+
+        <section id="destinations">
+          <Destinations />
+        </section>
+        
       </main>
       
     </>
